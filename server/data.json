@@ -1,0 +1,15 @@
+{
+  "version": "2",
+  "users": {
+    "2984980664": {
+      "role": "Admin",
+      "name": "navanoid",
+      "password": {
+        "salt": "185b1cba33706268771d387930601f51",
+        "hash": "3a7f2b8e4e7c18973de9b6b0014e2c194e85be2b6f297be571ca3f2520f3d851"
+      },
+      "client_unique_id": "navanoid"
+    }
+  },
+  "hosts": {}
+}
